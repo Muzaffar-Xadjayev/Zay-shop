@@ -1,0 +1,96 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    list-style: none;
+    text-decoration: none;
+}
+.hover{
+    transition: .2s;
+}
+.hover:hover{
+    color: #47a87b;
+    transition: .2s;
+    cursor: pointer;
+}
+.email{
+    transition: .2s;
+}
+.email:hover{
+    color: #47a87b;
+    transition: .2;
+}
+.icons i:hover{
+    color: #47a87b;
+    transition: .2s;
+    cursor: pointer;
+}
+.icons i{
+    transition: .2s;
+}
+.display-4{
+    cursor: pointer;
+    transition: .2s;
+}
+.shop img{
+    border-radius: 50%;
+}
+p::selection{
+    color: #fff;
+    background: #000;
+}
+a::selection{
+    color: #fff;
+    background: #000;
+}
+.bg-blue{
+    width: 100%;
+    height: 100%;
+    background: #e0edff;
+}
+.foot{
+    line-height: 40px;
+}
+.height{
+    line-height: 40px;
+}
+.ii i{
+   transition: .2s;
+}
+.ii i:hover{
+    color: #47a87b;
+    cursor: pointer;
+    transition: .2s;
+}
+.ii i:active{
+    color: rgb(83, 83, 83);
+    transition: .2s;
+}
+.forms input{
+    background: transparent;
+}
+.Promotion i{
+    font-size: 60px;
+}
+
+.shadow div:hover{
+    background: #47a87b;
+    color: #fff;
+    transition: .2s;
+}
+.menu a{
+    color: #111;
+}
+.menu a:hover{
+    color: #555;
+    transition: .2s;
+}
+
+body i{
+    cursor: pointer;
+}
+
+body a:hover{
+    color: #555;
+    transition: .2s;
+}
